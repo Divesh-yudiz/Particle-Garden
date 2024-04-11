@@ -6,12 +6,10 @@ import {
   OrthographicCamera,
   Mesh,
   SphereGeometry,
-  MeshMatcapMaterial,
   AxesHelper,
   PlaneGeometry,
   BufferGeometry,
   Points,
-  PointsMaterial,
   BufferAttribute,
   ShaderMaterial,
   Raycaster,
@@ -19,10 +17,8 @@ import {
   Clock,
   Vector3,
   MeshBasicMaterial,
-  TextureLoader,
   AmbientLight,
   DoubleSide,
-  UnsignedByteType,
 } from 'three'
 import { MapControls } from 'three/examples/jsm/controls/OrbitControls.js'
 import Stats from 'stats-js'

@@ -1,10 +1,10 @@
 {
   "private": true,
-  "name": "vite-2d-shader-template",
+  "name": "Divesh Adole",
   "version": "0.0.0",
-  "description": "Template to quickly code in Threejs, powered by Vite.",
-  "author": "Robin Payot <robpayot@gmail.com>",
-  "license": "MIT",
+  "description": "",
+  "author": "",
+  "license": "",
   "type": "module",
   "keywords": [
     "threejs",

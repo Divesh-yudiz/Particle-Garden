@@ -13,9 +13,7 @@
     "fun",
     "code"
   ],
-  "contributors": [
-    "Robin Payot <robpayot@gmail.com>"
-  ],
+  "contributors": [],
   "scripts": {
     "dev": "vite",
     "build": "vite build --emptyOutDir",
